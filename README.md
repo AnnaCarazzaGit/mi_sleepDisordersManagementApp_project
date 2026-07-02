@@ -1,6 +1,6 @@
 # A²E³S Medical Informatics Project
 <p align="center">
-  <img src="./assets/PHOTO-2025-05-20-00-09-20.jpg" width="32%" />
+  <img src="./assets/PHOTO-2025-05-20-00-09-20.jpg" width="70%" />
 </p>
 
 Desktop medical-informatics prototype for sleep-health monitoring, patient self-management, appointment scheduling and administrative supervision.
