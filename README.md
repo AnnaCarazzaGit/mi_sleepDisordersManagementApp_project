@@ -1,4 +1,4 @@
-# E³A²S Medical Informatics Project
+# A²E³S Medical Informatics Project
 
 Desktop medical-informatics prototype for sleep-health monitoring, patient self-management, appointment scheduling and administrative supervision.
 
