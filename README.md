@@ -1,4 +1,4 @@
-# A²E³S Medical Informatics Project
+# A² S E³ Medical Informatics Project
 <p align="center">
   <img src="./assets/PHOTO-2025-05-20-00-09-20.jpg" width="70%" />
 </p>
