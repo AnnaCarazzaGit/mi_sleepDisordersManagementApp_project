@@ -1,0 +1,8 @@
+# Core dependencies for the patient and manager applications.
+# Recommended interpreter: Python 3.10.x
+
+customtkinter==5.2.2
+tkcalendar==1.6.1
+numpy==1.26.4
+pandas==2.2.3
+matplotlib==3.8.4
