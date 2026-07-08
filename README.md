@@ -159,17 +159,32 @@ mi_sleepDisordersManagementApp_project/
 │           ├── note_page.py
 │           ├── patient_page.py
 │           └── profile_page.py
+│
 ├── data/
 │   ├── diary_responses.db
 │   ├── helpdesk.db
 │   ├── insomnia_management.db
 │   └── sleep_data.db
+│
 ├── assets/
-│   ├── PHOTO-2025-05-20-00-09-20.jpg
-│   └── sleep_graph_example.png
+│   ├── ase_logo.jpg
+│   ├── sleep_graph_example.png
+│   └── screenshots/
+│       ├── patient_visit_booking.jpg
+│       ├── patient_sleep_diary.jpg
+│       ├── sensor_data_visualization.jpg
+│       ├── specialist_prescription_management.jpg
+│       ├── psychologist_session_notes.jpg
+│       └── manager_user_management.jpg
+│
+├── docs/
+│   ├── ASE_Final_Report.pdf
+│   └── ASE_Presentation.pdf
+│
 ├── prototypes/
 │   ├── face_id_prototype.py
 │   └── requirements-faceid.txt
+│
 ├── archive/
 ├── .gitattributes
 ├── .gitignore
