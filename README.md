@@ -273,6 +273,18 @@ prototypes/requirements-faceid.txt
 
 The experimental Face ID prototype additionally explores OpenCV, `face_recognition`, and `dlib`.
 
+## Documentation and application demo
+
+Additional project documentation and demonstration material are available in the `docs/` directory.
+
+- [Full technical project report](docs/ASE_Final_Report.pdf)
+- [Project presentation](docs/ASE_Presentation.pdf)
+- [Application demo video](docs/ASE_Application_Demo.mp4)
+
+The technical report provides a detailed description of the system requirements, role-specific workflows, use-case and activity diagrams, class and entity-relationship models, relational database design, SQL-based implementation, and graphical user interfaces.
+
+The application demo presents the main ASE workflows and interfaces for patients, sleep specialists, psychologists, and application managers.
+
 ## Current limitations
 
 - The project is an academic desktop prototype rather than a production clinical system.
