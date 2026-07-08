@@ -4,7 +4,7 @@
   <img src="assets/PHOTO-2025-05-20-00-09-20.jpg" alt="Advanced Sleep Evaluation logo" width="500">
 </p>
 
-Python desktop application developed as an academic medical-informatics prototype for the management of sleep-disorder care pathways.
+Python desktop application developed as an academic medical-informatics group project prototype for the management of sleep-disorder care pathways.
 
 The project integrates role-based graphical interfaces, local relational data management, patient self-management tools, appointment scheduling, digital sleep diaries, prescription management, physiological and sleep-data visualization, and administrative functions.
 
