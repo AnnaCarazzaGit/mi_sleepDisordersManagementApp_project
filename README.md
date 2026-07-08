@@ -279,7 +279,7 @@ Additional project documentation and demonstration material are available in the
 
 - [Full technical project report](docs/ASE_Final_Report.pdf)
 - [Project presentation](docs/ASE_Presentation.pdf)
-- [Application demo video](docs/ASE_Demo.mp4)
+- [Application demo video](docs/ASE_demo.mp4)
 
 The technical report provides a detailed description of the system requirements, role-specific workflows, use-case and activity diagrams, class and entity-relationship models, relational database design, SQL-based implementation, and graphical user interfaces.
 
