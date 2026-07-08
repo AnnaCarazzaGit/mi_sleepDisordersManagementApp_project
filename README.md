@@ -10,6 +10,36 @@ The project integrates role-based graphical interfaces, local relational data ma
 
 > **Academic prototype and simulated data:** this application was developed exclusively for academic, demonstration, and educational purposes. **All data included in this repository are entirely simulated and do not refer to real individuals.** This includes user profiles, names, identifiers, login credentials, appointments, clinical information, prescriptions, sleep-diary entries, physiological measurements, and sleep data. No real patient data, personal data, or sensitive health information are included. This software is not a medical device and is not intended for diagnosis, treatment, or clinical decision-making.
 
+## Application preview
+
+<table>
+  <tr>
+    <td align="center"><b>Patient appointment booking</b></td>
+    <td align="center"><b>Digital sleep diary</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/patient_visit_booking.jpg" alt="Patient appointment booking interface"></td>
+    <td><img src="assets/screenshots/patient_sleep_diary.jpg" alt="Digital sleep diary interface"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Sleep and physiological data visualization</b></td>
+    <td align="center"><b>Prescription management</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/sensor_data_visualization.jpg" alt="Sensor data visualization interface"></td>
+    <td><img src="assets/screenshots/specialist_prescription_management.jpg" alt="Specialist prescription management interface"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Psychologist session notes</b></td>
+    <td align="center"><b>Application manager interface</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/psychologist_session_notes.jpg" alt="Psychologist session notes interface"></td>
+    <td><img src="assets/screenshots/manager_user_management.jpg" alt="Application manager user management interface"></td>
+  </tr>
+</table>
+
+
 ## Application roles
 
 ### Patient
