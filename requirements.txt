@@ -1,0 +1,9 @@
+# GUI
+customtkinter==5.2.2
+Pillow==10.4.0
+tkcalendar==1.6.1
+
+# Data analysis and visualization
+numpy==1.26.4
+pandas==2.2.3
+matplotlib==3.8.4
